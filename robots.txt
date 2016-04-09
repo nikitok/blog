@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://nikitok.github.io/blog/sitemap.xml 
